@@ -1,11 +1,11 @@
 # My Flutter Packages List
 Lista de packages principais/mais utilizo | Flutter
 
-## Flutter Bloc | flutter_bloc
+### Flutter Bloc | flutter_bloc
 **Link:**
 [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 
-## Google Fonts | google_fonts
+# Google Fonts | google_fonts
 **Link:**
 [google_fonts](https://pub.dev/packages/google_fonts)
 
@@ -16,13 +16,13 @@ Text(
   style: GoogleFonts.lato(),
 ), 
 ```
-
-## Flutter SVG | flutter_svg
+##  
+### Flutter SVG | flutter_svg
 **Link:**
 [flutter_svg](https://pub.dev/packages/google_fonts)
 
 
-## Json Serializable | json_serializable
+### Json Serializable | json_serializable
 **Link:**
 [json_serializable](https://pub.dev/packages/json_serializable)
 
@@ -51,7 +51,7 @@ flutter pub run build_runner build
 ```
 
 
-## Flutter Native Splash | flutter_native_splash
+### Flutter Native Splash | flutter_native_splash
 **Link:**
 [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 
@@ -74,7 +74,7 @@ flutter_native_splash:
 flutter pub run flutter_native_splash:create
 ```
 
-## Flutter Launcher Icons | flutter_launcher_icons
+### Flutter Launcher Icons | flutter_launcher_icons
 **Link:**
 [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
 
@@ -96,7 +96,7 @@ flutter_icons:
 flutter pub run flutter_launcher_icons:main
 ```
 
-## Flutter Social Signin Buttons | flutter_signin_button
+### Flutter Social Signin Buttons | flutter_signin_button
 **Link:**
 [flutter_signin_button](https://pub.dev/packages/flutter_signin_button)
 
