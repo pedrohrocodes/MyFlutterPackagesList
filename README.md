@@ -5,7 +5,8 @@ Lista de packages principais/mais utilizo | Flutter
 ### flutter_signin_button: version
 
 **Link:**
-[link](https://pub.dev/packages/flutter_signin_button)
+[flutter_signin_button](https://pub.dev/packages/flutter_signin_button)
 
 Example:
-<img src="https://github.com/ZaynJarvis/Flutter-Sign-in-Button/raw/master/showcase.png" height="700em"/>
+
+<img src="https://github.com/ZaynJarvis/Flutter-Sign-in-Button/raw/master/showcase.png" height="500em"/>
