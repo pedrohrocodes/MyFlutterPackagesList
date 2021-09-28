@@ -20,29 +20,7 @@ Text(
 ## Flutter SVG | flutter_svg
 **Link:**
 [flutter_svg](https://pub.dev/packages/google_fonts)
-  
-## Flutter Native Splash | flutter_native_splash
-**Link:**
-[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 
-**Examples:**
-```
-dev_dependencies:
-  flutter_native_splash: ^1.2.4
-```
-
-```
-flutter_native_splash:
- color: "#ffffff"
- image:
- android: true
- ios: true
-```
-
-**Use:**
-```
-flutter pub run flutter_native_splash:create
-```
 
 ## Json Serializable | json_serializable
 **Link:**
@@ -70,6 +48,30 @@ Map<String, dynamic> _$PersonToJson(Person instance) => <String, dynamic>{
 **Use:**
 ```
 flutter pub run build_runner build
+```
+
+
+## Flutter Native Splash | flutter_native_splash
+**Link:**
+[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
+
+**Examples:**
+```
+dev_dependencies:
+  flutter_native_splash: ^1.2.4
+```
+
+```
+flutter_native_splash:
+ color: "#ffffff"
+ image:
+ android: true
+ ios: true
+```
+
+**Use:**
+```
+flutter pub run flutter_native_splash:create
 ```
 
 ## Flutter Launcher Icons | flutter_launcher_icons
