@@ -44,6 +44,34 @@ flutter_native_splash:
 flutter pub run flutter_native_splash:create
 ```
 
+## Json Serializable | json_serializable
+**Link:**
+[json_serializable](https://pub.dev/packages/json_serializable)
+
+**Examples:**
+```
+part of 'example.dart';
+
+Person _$PersonFromJson(Map<String, dynamic> json) => Person(
+      firstName: json['firstName'] as String,
+      lastName: json['lastName'] as String,
+      dateOfBirth: json['dateOfBirth'] == null
+          ? null
+          : DateTime.parse(json['dateOfBirth'] as String),
+    );
+
+Map<String, dynamic> _$PersonToJson(Person instance) => <String, dynamic>{
+      'firstName': instance.firstName,
+      'lastName': instance.lastName,
+      'dateOfBirth': instance.dateOfBirth?.toIso8601String(),
+    };
+```
+
+**Use:**
+```
+flutter pub run build_runner build
+```
+
 ## Flutter Launcher Icons | flutter_launcher_icons
 **Link:**
 [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
