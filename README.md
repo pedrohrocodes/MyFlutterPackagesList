@@ -1,11 +1,12 @@
 # My Flutter Packages List
 Lista de packages principais/mais utilizo | Flutter
 
-## .
+## .01
 ### Flutter Bloc | flutter_bloc
 **Link:**
 [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 
+## .02
 ### Google Fonts | google_fonts
 **Link:**
 [google_fonts](https://pub.dev/packages/google_fonts)
@@ -17,12 +18,12 @@ Text(
   style: GoogleFonts.lato(),
 ), 
 ```
-## .
+## .03
 ### Flutter SVG | flutter_svg
 **Link:**
 [flutter_svg](https://pub.dev/packages/google_fonts)
 
-## .
+## .04
 ### Json Serializable | json_serializable
 **Link:**
 [json_serializable](https://pub.dev/packages/json_serializable)
@@ -51,7 +52,7 @@ Map<String, dynamic> _$PersonToJson(Person instance) => <String, dynamic>{
 flutter pub run build_runner build
 ```
 
-## .
+## .05
 ### Flutter Native Splash | flutter_native_splash
 **Link:**
 [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
@@ -75,7 +76,7 @@ flutter_native_splash:
 flutter pub run flutter_native_splash:create
 ```
 
-## .
+## .06
 ### Flutter Launcher Icons | flutter_launcher_icons
 **Link:**
 [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
@@ -98,7 +99,7 @@ flutter_icons:
 flutter pub run flutter_launcher_icons:main
 ```
 
-## .
+## .07
 ### Flutter Social Signin Buttons | flutter_signin_button
 **Link:**
 [flutter_signin_button](https://pub.dev/packages/flutter_signin_button)
