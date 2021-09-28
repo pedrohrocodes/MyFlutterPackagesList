@@ -9,4 +9,4 @@ Lista de packages principais/mais utilizo | Flutter
 
 Example:
 
-<img src="https://github.com/ZaynJarvis/Flutter-Sign-in-Button/raw/master/showcase.png" height="500em"/>
+<img src="https://github.com/ZaynJarvis/Flutter-Sign-in-Button/raw/master/showcase.png" height="600em"/>
