@@ -4,11 +4,7 @@ Lista de packages principais/mais utilizo | Flutter
 ## Flutter Bloc | flutter_bloc
 **Link:**
 [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-  
-  
-  
-  
-  
+
 ## Google Fonts | google_fonts
 **Link:**
 [google_fonts](https://pub.dev/packages/google_fonts)
@@ -20,16 +16,10 @@ Text(
   style: GoogleFonts.lato(),
 ), 
 ```
-  
-  
-  
-  
+
 ## Flutter SVG | flutter_svg
 **Link:**
 [flutter_svg](https://pub.dev/packages/google_fonts)
-  
-  
-  
   
 ## Flutter Native Splash | flutter_native_splash
 **Link:**
@@ -53,11 +43,30 @@ flutter_native_splash:
 ```
 flutter pub run flutter_native_splash:create
 ```
-  
-  
-  
-  
-## Flutter Social Signin Buttons
+
+## Flutter Launcher Icons | flutter_launcher_icons
+**Link:**
+[flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+
+**Examples:**
+```
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.2
+```
+
+```
+flutter_icons:
+  android: true
+  ios: true
+  image_path: 
+```
+
+**Use:**
+```
+flutter pub run flutter_launcher_icons:main
+```
+
+## Flutter Social Signin Buttons | flutter_signin_button
 **Link:**
 [flutter_signin_button](https://pub.dev/packages/flutter_signin_button)
 
